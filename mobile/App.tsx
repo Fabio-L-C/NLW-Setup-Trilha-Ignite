@@ -1,5 +1,6 @@
 // import { StatusBar } from "expo-status-bar";
 import { StatusBar } from "react-native";
+
 import {
   useFonts,
   Inter_400Regular,
